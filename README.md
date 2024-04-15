@@ -1,4 +1,11 @@
-# wm10-repo
+# wm10-repo and wp8, wp8.1
+```
+This repo is kit and guide for use wp and wm in nowadays
+```
+```
+Этот репозиторий - набор и руководство по использованию wp и wm в наше время
+```
+---
 # WM10
 - [**excel**](https://4pda.to/forum/index.php?showtopic=967686)
 - [**PowerShell**](https://4pda.to/forum/index.php?showtopic=1017320)
