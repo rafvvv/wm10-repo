@@ -62,4 +62,6 @@
 - [Interop Unlock](https://4pda.to/stat/go?u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20200803113719%2Fhttps%3A%2F%2Fwp-seven.ru%2Finstruktsii%2Fsystem%2Fwindows-mobile-system%2Finterop-unlock-na-lumia-w10m-bez-pk.html&e=95727196&f=https%3A%2F%2F4pda.to%2Fforum%2Findex.php%3Fshowtopic%3D990430 "Ссылка")
 - [Interop Tools](https://4pda.to/stat/go?u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20221214120908%2Fhttps%3A%2F%2Fwp-seven.ru%2Finstruktsii%2Fsystem%2Fwindows-mobile-system%2Fkak-ustanovit-interop-tools.html&e=95727196&f=https%3A%2F%2F4pda.to%2Fforum%2Findex.php%3Fshowtopic%3D990430 "Ссылка")
 - [mobile-cmd](https://github.com/Empyreal96/mobile-cmd)
+
   
+[install appx no ms store](https://store.rg-adguard.net/)
